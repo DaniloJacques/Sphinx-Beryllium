@@ -44,6 +44,8 @@ config ANDROID_SIMPLE_LMK
 	  Android gives them; in other words, the least important processes are
 	  always killed first.
 
+source "drivers/staging/android/ion/Kconfig"
+
 source "drivers/staging/android/fiq_debugger/Kconfig"
 
 endif # if ANDROID
