@@ -782,3 +782,8 @@ CONFIG_CRYPTO_LZ4=y
 # Frandom
 #
 CONFIG_FRANDOM=y
+
+#
+# Adreno Idler
+#
+CONFIG_ADRENO_IDLER=y
