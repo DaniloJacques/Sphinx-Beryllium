@@ -787,3 +787,8 @@ CONFIG_FRANDOM=y
 # Adreno Idler
 #
 CONFIG_ADRENO_IDLER=y
+
+#
+# Simple Low Memory Killer
+#
+CONFIG_ANDROID_SIMPLE_LMK=y
